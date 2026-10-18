@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="64.5" height="58.8154" viewBox="0 0 64.5 58.8154" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Vector" filter="url(#filter0_g_15_24)">
+<path d="M64.25 28.75C64.25 44.4901 49.9231 57.25 32.25 57.25C14.5769 57.25 0.25 44.4901 0.25 28.75C0.25 13.0099 14.5769 0.25 32.25 0.25C49.9231 0.25 64.25 13.0099 64.25 28.75Z" fill="#FEFDFE"/>
+<path d="M2.20949 58.5013C1.36953 58.8103 0.577773 57.9448 0.960083 57.1356L8.92565 40.2752C9.22932 39.6325 10.0878 39.5029 10.5676 40.0274L20.1029 50.4501C20.5827 50.9746 20.3775 51.8182 19.7103 52.0636L2.20949 58.5013Z" fill="#FEFDFE"/>
+<path d="M44.1683 20.2046C43.5086 19.5445 42.7253 19.021 41.8632 18.6637C41.001 18.3065 40.077 18.1226 39.1438 18.1226C38.2105 18.1226 37.2865 18.3065 36.4243 18.6637C35.5622 19.021 34.7789 19.5445 34.1192 20.2046L32.75 21.5737L31.3808 20.2046C30.0482 18.872 28.2408 18.1233 26.3563 18.1233C24.4717 18.1233 22.6643 18.872 21.3317 20.2046C19.9991 21.5372 19.2504 23.3446 19.2504 25.2292C19.2504 27.1138 19.9991 28.9211 21.3317 30.2537L30.9822 39.9043C31.9585 40.8806 33.5415 40.8806 34.5178 39.9043L44.1683 30.2537C44.8284 29.594 45.352 28.8107 45.7092 27.9486C46.0664 27.0864 46.2503 26.1624 46.2503 25.2292C46.2503 24.296 46.0664 23.3719 45.7092 22.5098C45.352 21.6476 44.8284 20.8643 44.1683 20.2046Z" fill="#E7B8C4"/>
+</g>
+<defs>
+<filter id="filter0_g_15_24" x="0" y="0" width="64.5" height="58.8154" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.25 0.25" numOctaves="3" seed="4490" />
+<feDisplacementMap in="shape" scale="0.5" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_15_24">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+</defs>
+</svg>

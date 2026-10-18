@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-cherry: "Cherry Bomb One", system-ui, sans-serif;
+  --font-sniglet: "Sniglet", system-ui, sans-serif;
+
+  --color-blush: #e7b8c4;
+  --color-cream: #fefdfe;
+  --color-rose: #e57d9d;
+  --color-rose-light: #eeb2c5;
+}
+
+body {
+  background-color: var(--color-blush);
+}
